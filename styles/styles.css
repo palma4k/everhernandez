@@ -1,0 +1,34 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: darkblue;
+}
+p {
+  color: darkblack;
+}
+
+}
+title{font-size:100px;
+	text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 36px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+transform: rotate(90deg);
+}
